@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# 파이썬 공부 
 <!--
 **first24722/first24722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
