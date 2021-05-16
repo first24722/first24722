@@ -16,6 +16,12 @@
 + 각 요소에 접근하는 방법 : 인덱싱 > 요소의 위치 0부터 시작 x[0]
 + 일부 요소를 추출하는 방법 : 슬라이싱 > x[0:3] 0,1,2
 + 전체 요소 접근 방법 : for..inzjffprtusgud :
+
+## 05.15 (Python02.ipynb)
++리스트
+ +문자열(str)
++튜플 : 리스트와 비슷하지만 수정이 불가
++딕셔너리 :키로 값을 구분
 <!--
 **first24722/first24722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
